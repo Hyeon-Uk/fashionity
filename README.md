@@ -72,6 +72,11 @@
             <a href="https://github.com/cornchip1"><I>cornchip1</I></a>
         </td>
     </tr>
+    <tr>
+        <td>팀장, 풀스택, 이슈관리, 배포</td>
+        <td>BE 리더, 풀스택, 디버깅, 배포, 인프라</td>
+        <td>팀원, 풀스택</td>
+    </tr>
     <tr align="center">
         <td><B>김은솔</B></td>
         <td><B>정지원</B></td>
@@ -93,6 +98,11 @@
             <br>
             <a href="https://github.com/sktkddn777"><I>sktkddn777</I></a>
         </td>
+    </tr>
+        <tr>
+        <td>팀원, 풀스택</td>
+        <td>FE 리더, 풀스택</td>
+        <td>팀원, 풀스택</td>
     </tr>
 </table>
 </div>
